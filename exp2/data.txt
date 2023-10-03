@@ -1,0 +1,2 @@
+This text is sample 
+Written for testing of lex file
